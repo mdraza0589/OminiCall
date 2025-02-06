@@ -52,13 +52,14 @@ header{
     text-decoration: none;
 }
 .nav ul{
+    z-index:2;
     justify-content: center;
     list-style: none;
     display: flex;
     transition: 0.5s;
 }
 .menu-icon{
-    z-index:2;
+    
     position: absolute;
     left: 20px;
     top: 50px;
