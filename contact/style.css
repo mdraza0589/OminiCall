@@ -37,6 +37,7 @@ header {
 }
 
 .nav ul {
+    z-index:2;
     justify-content: center;
     list-style: none;
     display: flex;
